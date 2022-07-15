@@ -14,4 +14,7 @@ public class Calculator {
 	public int divide(int a, int b) {
 		return a/b;
 	}
+	public void m2() {
+		System.out.println("m2");
+	}
 }
