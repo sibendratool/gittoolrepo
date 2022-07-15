@@ -7,5 +7,8 @@ public class Test {
 		Calculator cal = new Calculator();
 		int sum = cal.add(10, 20);
 		System.out.println("Sum is: "+sum);
+		
+		int sub = cal.sub(30, 15);
+		System.out.println("Substraction is :"+sub);
 	}
 }
